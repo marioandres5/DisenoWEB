@@ -1,5 +1,5 @@
 * {
-    text-decoration: none;
+    
 }
 
 .iceberg-regular {
@@ -8,16 +8,23 @@
   font-style: normal;
 }
 
+body {
+    
+}
 
 
 #header {
     background-color: #9EB7F0;
     color: #ffffff;
     font: iceber_regular;
-
 }
 
-#body {
+div a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#content {
     background-color: #ffffff;
 
 }
